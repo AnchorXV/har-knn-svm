@@ -1,4 +1,4 @@
-# Cache
+# Byte-compiled / cache
 __pycache__/
 *.py[cod]
 *$py.class
@@ -16,19 +16,11 @@ ENV/
 
 # Dataset
 data/raw/
-data/external/
 *.zip
 *.csv.gz
 
-# Model hasil training
-models/*.pkl
-models/*.joblib
-models/*.h5
-
 # Output eksperimen
-results/*.png
-results/*.csv
-logs/
+results/figures/*.png
 
 # Environment & secrets
 .env
@@ -48,8 +40,3 @@ desktop.ini
 build/
 dist/
 *.egg-info/
-
-# Laporan hasil compile
-*.aux
-*.log
-*.synctex.gz
