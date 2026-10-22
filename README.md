@@ -1,4 +1,4 @@
-# Klasifikasi Aktivitas Manusia dengan KNN dan SVM
+# Perbandingan Performa KNN dan SVM dalam Pengenalan Aktivitas Manusia Menggunakan Smartphone
 
 Final Project mata kuliah Pembelajaran Mesin. Project ini membandingkan performa K-Nearest Neighbors (KNN) dan Support Vector Machine (SVM) dalam mengenali enam aktivitas manusia (berjalan, naik tangga, turun tangga, duduk, berdiri, berbaring) dari data sensor accelerometer dan gyroscope pada smartphone.
 
