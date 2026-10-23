@@ -40,12 +40,12 @@ Kedua model dievaluasi dengan akurasi, precision, recall, F1-score per kelas, se
  
 ```bash
 # Clone repo
-git clone https://github.com/<username>/har-knn-svm.git
+git clone https://github.com/AnchorXV/har-knn-svm.git
 cd har-knn-svm
  
 # Buat virtual environment
 python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
+source venv/bin/activate
  
 # Install dependensi
 pip install -r requirements.txt
@@ -59,8 +59,8 @@ jupyter notebook har_knn_svm.ipynb
 | Nama | NIM | Kontribusi |
 |---|---|---|
 | Diandra Adilah Akbar | 163241078 | - |
-| Farel Hansel Suryadhinata | 163241016 | ... |
-| Shiraz Akhiru Ramadhan | 163241063 | ... |
+| Farel Hansel Suryadhinata | 163241016 | - |
+| Shiraz Akhiru Ramadhan | 163241063 | - |
 
 ## Referensi
 
